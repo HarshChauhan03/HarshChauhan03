@@ -1,5 +1,13 @@
 # 💫 About Me:
-AI/ML and Data Science projects, focusing on real-world problem solving and hands-on development.<br>Open-source projects related to AI, Machine Learning, Data Science, and Web Development.<br>Improving model optimization, deployment, and best industry practices.<br>Advanced Machine Learning, Deep Learning, Data Analytics, and GitHub best practices.<br>Python, Machine Learning basics, Data Science projects, Git, and GitHub.<br>I enjoy turning complex problems into simple, working solutions 🚀
+I am an AI and Data Science Engineer with hands-on experience in Python, data analysis, and machine learning, currently contributing to intelligent automation solutions at We3Vision Private Limited. I specialize in transforming raw data into meaningful insights that support strategic decision-making and operational efficiency.
+
+My core expertise includes data cleaning, preprocessing, and exploratory data analysis (EDA) using Python libraries such as Pandas, NumPy, and Matplotlib. I have practical experience in developing AI-driven applications, including chatbot systems and data-centric tools designed to streamline workflows for HR managers, project managers, and leadership teams.
+
+I possess foundational knowledge in Machine Learning and Natural Language Processing (NLP), with a strong focus on building scalable, data-driven solutions. Additionally, I have experience working with tools such as Jupyter Notebook, Google Colab, Power BI, Orange, and Weka for analysis and visualization.
+
+With a working understanding of frontend technologies (HTML, CSS, JavaScript) and MySQL, I am capable of understanding and contributing to end-to-end application development processes.
+
+I am committed to continuous learning, innovation, and applying AI technologies to solve real-world business challenges efficiently and effectively.
 
 
 ## 🌐 Socials:
