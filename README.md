@@ -1,13 +1,33 @@
-# 💫 About Me:
-I am an AI and Data Science Engineer with hands-on experience in Python, data analysis, and machine learning, currently contributing to intelligent automation solutions at We3Vision Private Limited. I specialize in transforming raw data into meaningful insights that support strategic decision-making and operational efficiency.
+# Hi, I'm Harsh Chauhan 👋
 
-My core expertise includes data cleaning, preprocessing, and exploratory data analysis (EDA) using Python libraries such as Pandas, NumPy, and Matplotlib. I have practical experience in developing AI-driven applications, including chatbot systems and data-centric tools designed to streamline workflows for HR managers, project managers, and leadership teams.
+I am an AI/ML Developer with practical experience in building AI-powered applications, intelligent chatbots, and backend solutions using Python and FastAPI. My primary interests lie in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Data Science.
 
-I possess foundational knowledge in Machine Learning and Natural Language Processing (NLP), with a strong focus on building scalable, data-driven solutions. Additionally, I have experience working with tools such as Jupyter Notebook, Google Colab, Power BI, Orange, and Weka for analysis and visualization.
+Currently, I work on developing scalable AI solutions that automate business workflows and improve productivity. My experience includes designing intelligent chatbot systems, integrating AI models into real-world applications, and building backend APIs that support enterprise-level automation.
 
-With a working understanding of frontend technologies (HTML, CSS, JavaScript) and MySQL, I am capable of understanding and contributing to end-to-end application development processes.
+I have hands-on experience with data preprocessing, data cleaning, feature engineering, and Exploratory Data Analysis (EDA) using Python libraries such as Pandas, NumPy, and Matplotlib. I also have a solid understanding of Machine Learning fundamentals and continuously expand my knowledge in Generative AI, LLMs, RAG, AI agents, and intelligent automation.
 
-I am committed to continuous learning, innovation, and applying AI technologies to solve real-world business challenges efficiently and effectively.
+### Technical Skills
+
+* **Programming:** Python, JavaScript
+* **Backend:** FastAPI, REST APIs
+* **Artificial Intelligence:** Machine Learning, Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)
+* **Data Science:** Data Analysis, Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA)
+* **Database:** MySQL
+* **Frontend:** HTML, CSS, JavaScript
+* **Tools & Platforms:** Jupyter Notebook, Google Colab, Power BI, Orange, Weka, Git, GitHub
+
+### What You'll Find Here
+
+* AI and Machine Learning projects
+* FastAPI backend applications
+* NLP and LLM experiments
+* Data Science and EDA notebooks
+* Python automation scripts
+* Learning repositories covering modern AI technologies
+* End-to-end projects focused on solving real-world problems
+
+I am passionate about building intelligent systems that solve practical business challenges through AI. I enjoy learning emerging technologies, experimenting with new ideas, and continuously improving my development and problem-solving skills. My GitHub serves as a collection of projects, experiments, and learning journeys that reflect my growth as an AI/ML Developer.
+
 
 
 ## 🌐 Socials:
